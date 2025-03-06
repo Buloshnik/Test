@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fc1d7696-035a-4d55-8c56-3e90886d7560">
+  <producedTypes>
+    <objectType typeId="8a604d8b-a6cc-4dc8-a2f9-556bea17559e" valueTypeId="14b8adfe-6bbe-4f12-affb-a48d2ac64bcd"/>
+    <refType typeId="6d274f70-7f57-4cf1-bb30-c3293ab2a6e7" valueTypeId="716fee0d-cccc-40a4-a117-57c872ad5885"/>
+    <selectionType typeId="b224a345-f752-4932-9237-913c8ad8d2a6" valueTypeId="05e8a923-1fdf-46db-a4cb-a985cbcbf79d"/>
+    <listType typeId="c99e472f-a4e8-45bd-a239-d129a95710e7" valueTypeId="42b2c664-426b-4125-b531-2892f23dc306"/>
+    <managerType typeId="0a20ff39-ed59-4f79-9500-8e705b1318d5" valueTypeId="8d289e39-4f83-4b41-aaf9-a49d8a248032"/>
+  </producedTypes>
+  <name>ЭтапПроекта</name>
+  <synonym>
+    <key>ru</key>
+    <value>Этап проекта</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ЭтапПроекта.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ЭтапПроекта.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

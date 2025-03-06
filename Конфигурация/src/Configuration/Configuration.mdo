@@ -39,4 +39,5 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <catalogs>Catalog.ЭтапПроекта</catalogs>
 </mdclass:Configuration>
